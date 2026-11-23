@@ -1,0 +1,16 @@
+{
+  "upc": "N/08034/03013/UP",
+  "type": "O&M",
+  "project_name": "Repair and Maintenance of Rouza Chouraha (Ghazipur)- Phephna (Ballia) Section from Km 405.030 to Km 473.400 on NH-31 (Pkg-1)",
+  "length": "68.37",
+  "ro_id": 23,
+  "ro_name": "RO-UP East",
+  "piu_id": 419,
+  "piu_name": "Ghazipur",
+  "start_lat_long": "25.588988,83.579121",
+  "end_lat_long": "25.768882,84.047575",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=NH31align.kml&upc=N/08034/03013/UP",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

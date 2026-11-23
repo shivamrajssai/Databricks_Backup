@@ -1,0 +1,16 @@
+{
+  "upc": "N/13012/01001/TN",
+  "type": "RCW",
+  "project_name": "MMLP Chennai",
+  "length": "0",
+  "ro_id": 11,
+  "ro_name": "RO-Chennai",
+  "piu_id": 252,
+  "piu_name": "Chennai",
+  "start_lat_long": "13.015844,79.530243",
+  "end_lat_long": "13.004652,79.532869",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=1.kmlMMLP.kml&upc=N/13012/01001/TN",
+  "verified_centerline_doc": "No",
+  "verified_chainage_doc": "No",
+  "verified_row_doc": "No"
+}

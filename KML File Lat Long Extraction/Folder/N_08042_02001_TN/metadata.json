@@ -1,0 +1,16 @@
+{
+  "upc": "N/08042/02001/TN",
+  "type": "RCW",
+  "project_name": "Oddanchatram - Madathukulam from km. 29.00 to km. 74.38",
+  "length": "45.38",
+  "ro_id": 24,
+  "ro_name": "RO-Madurai",
+  "piu_id": 347,
+  "piu_name": "Dindigul",
+  "start_lat_long": "10.498449,77.738600",
+  "end_lat_long": "10.569991,77.352675",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=PkgIIOMKML1.kml&upc=N/08042/02001/TN",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

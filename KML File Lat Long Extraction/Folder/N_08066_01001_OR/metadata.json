@@ -1,0 +1,16 @@
+{
+  "upc": "N/08066/01001/OR",
+  "type": "RCW",
+  "project_name": "Birmitrapur - Brahmani Bypass end of NH-23",
+  "length": "29.1",
+  "ro_id": 2,
+  "ro_name": "RO-Bhubaneswar",
+  "piu_id": 192,
+  "piu_name": "Keonjhar",
+  "start_lat_long": "22.421708,84.718688",
+  "end_lat_long": "22.216944,84.811706",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=BiramitrapurtoBrahmaniBypassEnd_Package1A211.200to240.200.kml&upc=N/08066/01001/OR",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

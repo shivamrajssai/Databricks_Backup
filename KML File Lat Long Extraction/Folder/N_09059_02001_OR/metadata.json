@@ -1,0 +1,16 @@
+{
+  "upc": "N/09059/02001/OR",
+  "type": "RCW",
+  "project_name": "Koida- Rajamunda (Pkg-II) km 206.00 - km 259.453 of NH 215",
+  "length": "53.25",
+  "ro_id": 2,
+  "ro_name": "RO-Bhubaneswar",
+  "piu_id": 192,
+  "piu_name": "Keonjhar",
+  "start_lat_long": "21.964134,85.270647",
+  "end_lat_long": "21.874728,84.919637",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=KoidaRajamundaSectionKMLfileforGPSMap.kml&upc=N/09059/02001/OR",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

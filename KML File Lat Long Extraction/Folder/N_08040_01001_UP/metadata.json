@@ -1,0 +1,16 @@
+{
+  "upc": "N/08040/01001/UP",
+  "type": "RCW",
+  "project_name": "Varanasi Gorakhpur Section Packege IV from km. 149.540 to km. 215.160 (Mau-Gorakhpur)",
+  "length": "65.62",
+  "ro_id": 23,
+  "ro_name": "RO-UP East",
+  "piu_id": 338,
+  "piu_name": "Gorakhpur",
+  "start_lat_long": "25.672611,83.551766",
+  "end_lat_long": "26.706852,83.332096",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=gorakhpurpkg4.kml&upc=N/08040/01001/UP",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

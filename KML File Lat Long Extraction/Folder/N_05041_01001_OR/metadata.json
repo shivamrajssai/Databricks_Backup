@@ -1,0 +1,16 @@
+{
+  "upc": "N/05041/01001/OR",
+  "type": "TTP",
+  "project_name": "O&M from Chainage 0+000 (Keonjhar) to Chainage 89+051 (Duburi) of NH-720",
+  "length": "89.051",
+  "ro_id": 2,
+  "ro_name": "RO-Bhubaneswar",
+  "piu_id": 192,
+  "piu_name": "Keonjhar",
+  "start_lat_long": "21.591322,85.645709",
+  "end_lat_long": "20.988335,85.988403",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=001_NH720AMNSPL.kml&upc=N/05041/01001/OR",
+  "verified_centerline_doc": "No",
+  "verified_chainage_doc": "No",
+  "verified_row_doc": "No"
+}

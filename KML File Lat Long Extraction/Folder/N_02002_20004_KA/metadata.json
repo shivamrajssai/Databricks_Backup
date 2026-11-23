@@ -1,0 +1,16 @@
+{
+  "upc": "N/02002/20004/KA",
+  "type": "",
+  "project_name": "Strengthening and ancillary works of Access Controlled Highway of Bengaluru Nelamangala Section of NH48 from Km.10.000 to Km.29.500 in the State of Karnataka",
+  "length": "19.5",
+  "ro_id": 10,
+  "ro_name": "RO-Bengaluru",
+  "piu_id": 244,
+  "piu_name": "Bengaluru",
+  "start_lat_long": "13.031801,77.534675",
+  "end_lat_long": "13.110853,77.378099",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=BNGNELALN1.kml&upc=N/02002/20004/KA",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

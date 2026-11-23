@@ -1,0 +1,16 @@
+{
+  "upc": "N/05055/01001/TN",
+  "type": "RCW",
+  "project_name": "Tuticorin - Tirunelveli from km. 0.00 to km. 47.250",
+  "length": "47.2500",
+  "ro_id": 24,
+  "ro_name": "RO-Madurai",
+  "piu_id": 348,
+  "piu_name": "Tuticorin",
+  "start_lat_long": "8.758501,78.153131",
+  "end_lat_long": "8.715304139,77.76381726",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=Tirunelveli.kml&upc=N/05055/01001/TN",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "No",
+  "verified_row_doc": "No"
+}

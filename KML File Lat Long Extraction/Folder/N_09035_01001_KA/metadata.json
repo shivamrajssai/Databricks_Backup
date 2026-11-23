@@ -1,0 +1,16 @@
+{
+  "upc": "N/09035/01001/KA",
+  "type": "RCW",
+  "project_name": "Belgaum-Khanapur Pkg I (Km 0.000-Km 30.800) of NH-4A",
+  "length": "30",
+  "ro_id": 10,
+  "ro_name": "RO-Bengaluru",
+  "piu_id": 246,
+  "piu_name": "Dharwad",
+  "start_lat_long": "15.831225,74.547906",
+  "end_lat_long": "15.6053525826595,74.5146373966609",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=BelgaumKhanapur.kml&upc=N/09035/01001/KA",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

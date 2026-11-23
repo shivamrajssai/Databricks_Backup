@@ -1,0 +1,15 @@
+# Google OAuth credentials
+**/credentials/
+**/token.json
+**/credential*.json
+
+# Databricks and cloud credentials
+.databrickscfg
+.env
+.env.*
+*.pem
+*.key
+
+# Python temporary files
+__pycache__/
+*.pyc

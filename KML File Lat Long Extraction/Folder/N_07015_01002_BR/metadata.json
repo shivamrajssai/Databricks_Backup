@@ -1,0 +1,16 @@
+{
+  "upc": "N/07015/01002/BR",
+  "type": "RCW",
+  "project_name": "4L of Forbesganj to Jogbani Section from Km. 0.000 to Km. 9.260 (IPC at Jogbani) of NH-57A",
+  "length": "9.260",
+  "ro_id": 13,
+  "ro_name": "RO-Patna",
+  "piu_id": 267,
+  "piu_name": "Purnea",
+  "start_lat_long": "26.318035,87.235196",
+  "end_lat_long": "26.382573,87.259684",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=ForbesganjtoJogbani1.kml&upc=N/07015/01002/BR",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

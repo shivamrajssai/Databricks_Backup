@@ -1,0 +1,16 @@
+{
+  "upc": "N/05052/01002/AP",
+  "type": "RCW",
+  "project_name": "6L of Varadharajula to Kumarajapet from km 0.000 to km 43.800 of NH-716B (Pkg-I)",
+  "length": "43.8000",
+  "ro_id": 20,
+  "ro_name": "RO-Vijayawada",
+  "piu_id": 376,
+  "piu_name": "Chittor",
+  "start_lat_long": "13.143919,79.075981",
+  "end_lat_long": "13.309981,79.434700",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=NH716BCTPackage1.kml&upc=N/05052/01002/AP",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

@@ -1,0 +1,16 @@
+{
+  "upc": "N/07005/01001/RJ",
+  "type": "RCW",
+  "project_name": "Raisinghnagar - Anupgarh - Gharsana - Rojri - Sattasar - Pugal- (Part-2) (Pkg-BM/6)",
+  "length": "162.46",
+  "ro_id": 1,
+  "ro_name": "RO-Jaipur",
+  "piu_id": 182,
+  "piu_name": "Bikaner",
+  "start_lat_long": "29.496898,73.402898",
+  "end_lat_long": "28.50633492,72.79432691",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=FinalCL132019P2kmlwithstructure.kml&upc=N/07005/01001/RJ",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

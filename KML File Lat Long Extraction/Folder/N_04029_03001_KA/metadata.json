@@ -1,0 +1,16 @@
+{
+  "upc": "N/04029/03001/KA",
+  "type": "RCW",
+  "project_name": "Hassan (km 184.912) to Maranahally (km 230.060) of NH - 75 in Karnataka",
+  "length": "45.14",
+  "ro_id": 10,
+  "ro_name": "RO-Bengaluru",
+  "piu_id": 248,
+  "piu_name": "Hassan",
+  "start_lat_long": "12.992152,76.056566",
+  "end_lat_long": "12.885076,75.722000",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=HassanMaranahally638250228214884839.kml&upc=N/04029/03001/KA",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

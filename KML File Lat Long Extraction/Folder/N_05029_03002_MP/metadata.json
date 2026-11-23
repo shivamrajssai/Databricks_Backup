@@ -1,0 +1,16 @@
+{
+  "upc": "N/05029/03002/MP",
+  "type": "RCW",
+  "project_name": "4L of Ratapani stretch from Km. 8.300 to Km. 20.680 of Obedullganj - Itarsi section of NH – 46 (Old NH-69) in the state of Madhya Pradesh on EPC Mode",
+  "length": "12.3800",
+  "ro_id": 16,
+  "ro_name": "RO-Bhopal",
+  "piu_id": 287,
+  "piu_name": "Bhopal",
+  "start_lat_long": "22.950320,77.640810",
+  "end_lat_long": "22.847040,77.658610",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=RatapaniRevisedKMLdtd.20.2.26.kml&upc=N/05029/03002/MP",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

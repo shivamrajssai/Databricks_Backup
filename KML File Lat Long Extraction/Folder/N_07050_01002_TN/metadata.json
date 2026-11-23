@@ -1,0 +1,16 @@
+{
+  "upc": "N/07050/01002/TN",
+  "type": "O&M",
+  "project_name": "Operation & Maintenance of Ennore Expressway from Km 0.000 to Km 7.538, Manali Oil Refinery Road from Km 0.000 to Km 5.600, Thiruvottiyur – Ponneri - Panchetti Road from Km 4.500 to 13.500 and Inner Ring Road from Km 18.000 to 25.000",
+  "length": "29.138",
+  "ro_id": 11,
+  "ro_name": "RO-Chennai",
+  "piu_id": 252,
+  "piu_name": "Chennai",
+  "start_lat_long": "13.121283,80.298880",
+  "end_lat_long": "13.183802,80.316327",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=N0705001001TNRCW.kml&upc=N/07050/01002/TN",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

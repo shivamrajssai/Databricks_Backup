@@ -1,0 +1,16 @@
+{
+  "upc": "N/04010/17001/JH",
+  "type": "RCW",
+  "project_name": "4L/2L PS of Govindpur (Raiganj) - Chas - WB border section of from km. 0.00 to km. 56.889 of Old NH-32",
+  "length": "56.89",
+  "ro_id": 18,
+  "ro_name": "RO-Ranchi",
+  "piu_id": 305,
+  "piu_name": "Dhanbad",
+  "start_lat_long": "23.869108,86.333286",
+  "end_lat_long": "23.448755,86.212152",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=N0401017001JH_GovindpurChasNH32.kml&upc=N/04010/17001/JH",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

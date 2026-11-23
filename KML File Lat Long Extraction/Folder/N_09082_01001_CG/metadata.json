@@ -1,0 +1,16 @@
+{
+  "upc": "N/09082/01001/CG",
+  "type": "RCW",
+  "project_name": "4 laning of Champa - Korba from km 0.00 to km 38.2",
+  "length": "38.2000",
+  "ro_id": 22,
+  "ro_name": "RO-Raipur",
+  "piu_id": 363,
+  "piu_name": "Korba",
+  "start_lat_long": "21.996401,82.739764",
+  "end_lat_long": "22.300154,82.747648",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=ChampaKorbaKMZ.kml&upc=N/09082/01001/CG",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

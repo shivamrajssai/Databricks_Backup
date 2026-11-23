@@ -1,0 +1,16 @@
+{
+  "upc": "N/05011/03002/AP",
+  "type": "RCW",
+  "project_name": "Khammam-Devarapalle Pkg IV [4L Access Controlled (Greenfield) from Recherla village to Gurvaygudem village (Design Chainage 105+236 to 132+664)]",
+  "length": "27.42",
+  "ro_id": 20,
+  "ro_name": "RO-Vijayawada",
+  "piu_id": 325,
+  "piu_name": "Rajamahendravaram",
+  "start_lat_long": "17.114937,81.016553",
+  "end_lat_long": "17.078175,81.267759",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=RecherlavillagetoGurvaygudemvillage.kml&upc=N/05011/03002/AP",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

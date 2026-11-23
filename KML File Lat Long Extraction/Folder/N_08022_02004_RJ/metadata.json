@@ -1,0 +1,16 @@
+{
+  "upc": "N/08022/02004/RJ",
+  "type": "STI",
+  "project_name": "Barmer-Sanchore-Gujarat Border (Upto Gandhav Bridge) Section of NH-68 from km 153.000 to km 259.300",
+  "length": "106.3",
+  "ro_id": 1,
+  "ro_name": "RO-Jaipur",
+  "piu_id": 187,
+  "piu_name": "Jaisalmer",
+  "start_lat_long": "25.747757,71.411748",
+  "end_lat_long": "24.982222,71.683594",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=BarmerGandhav.kml&upc=N/08022/02004/RJ",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

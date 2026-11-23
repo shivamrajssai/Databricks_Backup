@@ -1,0 +1,16 @@
+{
+  "upc": "N/05015/02007/MH",
+  "type": "STI",
+  "project_name": "Construction of VUP with approaches at Khodad Junction (Km.78.600) and Ambikhalsa Junction (Km.113.150) on Khed Sinnar Section of NH-60 (Old NH-50)",
+  "length": "2.1",
+  "ro_id": 9,
+  "ro_name": "RO-Mumbai",
+  "piu_id": 236,
+  "piu_name": "Pune",
+  "start_lat_long": "19.106388,73.981111",
+  "end_lat_long": "19.326388,74.187777",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=KhodadAmbikhalsaVUPs.kml&upc=N/05015/02007/MH",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

@@ -1,0 +1,16 @@
+{
+  "upc": "N/08031/02003/TN",
+  "type": "O&M",
+  "project_name": "Operation and Maintenance including Incident Management from Km 2+750 to Km 136+543 in Dindigul to Kumili Section of NH-183 (Old NH-45E & 220)",
+  "length": "133.793",
+  "ro_id": 24,
+  "ro_name": "RO-Madurai",
+  "piu_id": 347,
+  "piu_name": "Dindigul",
+  "start_lat_long": "10.347300,77.950480",
+  "end_lat_long": "9.609720,77.170250",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=KumilitoThenitoDindigulRd.kml&upc=N/08031/02003/TN",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

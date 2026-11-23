@@ -1,0 +1,16 @@
+{
+  "upc": "N/04002/07001/KL",
+  "type": "RCW",
+  "project_name": "4 lane ROB and its approaches including allied works near Neleshwaram town (Pallikara Railway Gate) Kasargad district",
+  "length": "0.7800",
+  "ro_id": 12,
+  "ro_name": "RO-Thiruvananthapuram",
+  "piu_id": 380,
+  "piu_name": "Kannur",
+  "start_lat_long": "12.2436029004388,75.1425151093572",
+  "end_lat_long": "12.2412866376463,75.1489025373334",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=N0400207001KLNeeleshwaramROBNH66.kml&upc=N/04002/07001/KL",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

@@ -1,0 +1,16 @@
+{
+  "upc": "N/04004/10002/MP",
+  "type": "RCW",
+  "project_name": "Construction of additional 3 lane with paved shoulder (design length 8.87 km) as realignment of Bakaner ghat (between Indore to Khalaghat Section from existing Km 59+190 to Km 66+120) of NH 52 (Old NH 3) on EPC mode in the State of Madhya Pradesh",
+  "length": "8.87",
+  "ro_id": 16,
+  "ro_name": "RO-Bhopal",
+  "piu_id": 286,
+  "piu_name": "Indore",
+  "start_lat_long": "22.395439,75.541497",
+  "end_lat_long": "22.351256,75.509769",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=BakanerghatKML1638257981638087537.kml&upc=N/04004/10002/MP",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

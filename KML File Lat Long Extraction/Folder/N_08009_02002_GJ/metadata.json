@@ -1,0 +1,16 @@
+{
+  "upc": "N/08009/02002/GJ",
+  "type": "RCW",
+  "project_name": "4L of Madhavpur to Porbandar section of ) from km 338.400 to km 379.100 of Old NH-8E (Ext.) (new NH-51)",
+  "length": "40.7000",
+  "ro_id": 6,
+  "ro_name": "RO-Gandhinagar",
+  "piu_id": 220,
+  "piu_name": "Rajkot",
+  "start_lat_long": "21.256499,69.968229",
+  "end_lat_long": "21.558571,69.685902",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=PACKAGE7.kml&upc=N/08009/02002/GJ",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

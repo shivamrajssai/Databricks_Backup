@@ -1,0 +1,16 @@
+{
+  "upc": "N/05020/03004/TN",
+  "type": "",
+  "project_name": "Strengthening of 2 lane with paved shoulders of Thanjavur – Pudukkottai Section of NH-226 (New NH 36) from Km 0.0 to Km 55.228 in Tamil Nadu on PBMC Mode",
+  "length": "55.228",
+  "ro_id": 24,
+  "ro_name": "RO-Madurai",
+  "piu_id": 342,
+  "piu_name": "Karaikudi",
+  "start_lat_long": "10.736401,79.104906",
+  "end_lat_long": "10.415745,78.788217",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=ThanjavurPudukkottaiNH226.kmz1.kml&upc=N/05020/03004/TN",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

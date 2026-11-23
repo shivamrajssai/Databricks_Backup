@@ -1,0 +1,16 @@
+{
+  "upc": "N/08009/02001/GJ",
+  "type": "RCW",
+  "project_name": "Gadu -Porbandar (Package VII)",
+  "length": "91.6700",
+  "ro_id": 6,
+  "ro_name": "RO-Gandhinagar",
+  "piu_id": 220,
+  "piu_name": "Rajkot",
+  "start_lat_long": "21.053481,70.289562",
+  "end_lat_long": "21.593783,69.6496731",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=5850_LAPLANGADUPORBANDARPKG7R0.kml&upc=N/08009/02001/GJ",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

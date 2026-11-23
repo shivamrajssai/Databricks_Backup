@@ -1,0 +1,16 @@
+{
+  "upc": "N/09044/01002/TN",
+  "type": "O&M",
+  "project_name": "Thirumayam - Manamadurai Section of NH-226 (New NH No. 36) from Km.77.200 to Km.154.929",
+  "length": "77.729",
+  "ro_id": 24,
+  "ro_name": "RO-Madurai",
+  "piu_id": 342,
+  "piu_name": "Karaikudi",
+  "start_lat_long": "10.23431,78.751057",
+  "end_lat_long": "9.699123,78.447871",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=UPCCodeN0904401001TNTirumayamManamadurai.kml&upc=N/09044/01002/TN",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

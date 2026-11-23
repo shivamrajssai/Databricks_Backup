@@ -1,0 +1,16 @@
+{
+  "upc": "N/01003/03001/AP",
+  "type": "RCW",
+  "project_name": "Bangalore Chennai Expressway (Phase-II Pkg-I) from km.71.000 to Km 96.000 (Bethamangala in the state of Karnataka to Byreddypalli)",
+  "length": "25",
+  "ro_id": 20,
+  "ro_name": "RO-Vijayawada",
+  "piu_id": 376,
+  "piu_name": "Chittor",
+  "start_lat_long": "13.007867,79.426028",
+  "end_lat_long": "13.123281,78.612406",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=BCEPhaseII_Package1.kml&upc=N/01003/03001/AP",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

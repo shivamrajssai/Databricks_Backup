@@ -1,0 +1,16 @@
+{
+  "upc": "N/02007/03005/JK",
+  "type": "BKS",
+  "project_name": "Rectification of Black Spot at Mansar Morh from Km. 69.780 to Km. 70.690 of NH-44",
+  "length": "0.910",
+  "ro_id": 8,
+  "ro_name": "RO-Jammu",
+  "piu_id": 234,
+  "piu_name": "Jammu",
+  "start_lat_long": "32.571451,75.103246",
+  "end_lat_long": "32.56762,75.097204",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=designplan.kml&upc=N/02007/03005/JK",
+  "verified_centerline_doc": "No",
+  "verified_chainage_doc": "No",
+  "verified_row_doc": "No"
+}

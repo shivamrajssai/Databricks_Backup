@@ -1,0 +1,16 @@
+{
+  "upc": "N/05023/02001/AP",
+  "type": "RCW",
+  "project_name": "4L PS Mydukur - Badvel from Km 585.820 to Km 630.960 of NH-67",
+  "length": "45.140",
+  "ro_id": 20,
+  "ro_name": "RO-Vijayawada",
+  "piu_id": 360,
+  "piu_name": "Kadapa",
+  "start_lat_long": "14.725122,78.703914",
+  "end_lat_long": "14.744825,79.088828",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=NH67.kml&upc=N/05023/02001/AP",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

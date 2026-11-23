@@ -1,0 +1,16 @@
+{
+  "upc": "N/08071/03001/HP",
+  "type": "RCW",
+  "project_name": "Solan - Kaithlighat Section of NH-22 Now NH-5 from Km. 106.139 to Km.129.05",
+  "length": "22.9100",
+  "ro_id": 21,
+  "ro_name": "RO-Shimla",
+  "piu_id": 328,
+  "piu_name": "Shimla",
+  "start_lat_long": "30.923123,77.096773",
+  "end_lat_long": "31.025751,77.107657",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=SOLANKMZ24052023638333136939456815.kml&upc=N/08071/03001/HP",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^cd '/home/softsensor/Desktop/October/New structure cheking' && python src/open_mom_links\\.py$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}

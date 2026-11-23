@@ -1,0 +1,16 @@
+{
+  "upc": "N/04020/05007/UP",
+  "type": "",
+  "project_name": "Tolling, Operation, Maintenance & Transfer of Bareilly - Sitapur Section of NH-30 (OId NH-24) in the State of Uttar Pradesh (From Km 262.000 to Km 419.590 of NH-24)",
+  "length": "157.59",
+  "ro_id": 14,
+  "ro_name": "RO-UP West",
+  "piu_id": 273,
+  "piu_name": "Bareilly",
+  "start_lat_long": "28.274647,79.505216",
+  "end_lat_long": "27.553602,80.704456",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=20MeterChainageBareillySitapurNH242.kml&upc=N/04020/05007/UP",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

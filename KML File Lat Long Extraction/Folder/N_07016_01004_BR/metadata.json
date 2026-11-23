@@ -1,0 +1,16 @@
+{
+  "upc": "N/07016/01004/BR",
+  "type": "O&M",
+  "project_name": "Balance Work of Piprakothi-Motihari-Raxaul on NH-28A ",
+  "length": "68.59",
+  "ro_id": 13,
+  "ro_name": "RO-Patna",
+  "piu_id": 269,
+  "piu_name": "Motihari",
+  "start_lat_long": "26.551632,84.926823",
+  "end_lat_long": "27.008592,84.838525",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=N0701601001BR_PiprakothiMotihariRaxaul.kml&upc=N/07016/01004/BR",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "No",
+  "verified_row_doc": "No"
+}

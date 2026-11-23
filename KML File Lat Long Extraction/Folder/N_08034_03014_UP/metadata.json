@@ -1,0 +1,16 @@
+{
+  "upc": "N/08034/03014/UP",
+  "type": "O&M",
+  "project_name": "Special Repair and Maintenance of Phephna (Ballia) - Chiraiya More (Barria) Section from Km 473.400 to Km 518.500 on NH-31 (Pkg-2)",
+  "length": "45.1",
+  "ro_id": 23,
+  "ro_name": "RO-UP East",
+  "piu_id": 419,
+  "piu_name": "Ghazipur",
+  "start_lat_long": "25.768882,84.047575",
+  "end_lat_long": "25.766302,84.464704",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=NH31align.kml&upc=N/08034/03014/UP",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

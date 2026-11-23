@@ -1,0 +1,16 @@
+{
+  "upc": "N/02019/01002/MP",
+  "type": "",
+  "project_name": "Tolling, Operation, Maintenance & Transfer of Shivpuri - Jhansi Section from Km. 1305.087 to Km. 1380.387 of NH-27 through InVIT model",
+  "length": "75.3",
+  "ro_id": 16,
+  "ro_name": "RO-Bhopal",
+  "piu_id": 289,
+  "piu_name": "Gwalior",
+  "start_lat_long": "25.415766,77.783312",
+  "end_lat_long": "25.4576215,78.5031053",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=BaranShivpuriJhansiNH27BaranShiv_OMandShivJhs_INVIT.kml&upc=N/02019/01002/MP",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

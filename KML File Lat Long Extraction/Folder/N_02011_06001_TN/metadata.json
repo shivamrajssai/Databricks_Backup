@@ -1,0 +1,16 @@
+{
+  "upc": "N/02011/06001/TN",
+  "type": "RCW",
+  "project_name": "Start of Karur Bypass - Dindigul from km. 292.600 to km. 305.600 (Contract Package No. NS2/BOT/TN-4)",
+  "length": "77.7250",
+  "ro_id": 24,
+  "ro_name": "RO-Madurai",
+  "piu_id": 347,
+  "piu_name": "Dindigul",
+  "start_lat_long": "11.0116806,78.0685833",
+  "end_lat_long": "10.3959389,77.9606278",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=N0201106001TNFourlaningofKarurtoDindigulSectionofNH44NH07Old.kml&upc=N/02011/06001/TN",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

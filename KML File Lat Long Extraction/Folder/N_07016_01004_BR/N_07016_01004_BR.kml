@@ -1,0 +1,35 @@
+<kml xmlns="http://earth.google.com/kml/2.0" xmlns:gx= "http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<StyleMap id="ESSMAPStyle"><Pair><key>normal</key><styleUrl>#ESSLineStyle</styleUrl></Pair></StyleMap>
+<Style id="ESSLineStyle"><IconStyle><Icon></Icon></IconStyle><ListStyle></ListStyle></Style>
+<StyleMap id="ESSPOLYMAPStyle"><Pair><key>normal</key><styleUrl>#ESSPOLYLineStyle</styleUrl></Pair></StyleMap>
+<Style id="ESSPOLYLineStyle"><PolyStyle><fill>2</fill></PolyStyle></Style>
+<StyleMap id="ESSMAPCSMARK"><Pair><key>normal</key><styleUrl>#ESSCSMARK </styleUrl></Pair></StyleMap>
+<Style id="ESSCSMARK"><IconStyle><scale>1.0</scale><Icon></Icon></IconStyle> <LineStyle>  <color>FF01CC6B</color>  </LineStyle> <PolyStyle> <color>FF01CC6B </color> <fill>0</fill> </PolyStyle> <ListStyle></ListStyle></Style>
+<StyleMap id="ESSMAPCS"><Pair><key>normal</key><styleUrl>#ESSCS </styleUrl></Pair></StyleMap>
+<Style id="ESSCS"><IconStyle><scale>1.0</scale><Icon></Icon></IconStyle> <LineStyle>  <color>FFA49C00</color>  </LineStyle> <PolyStyle> <color>FFA49C00 </color> <fill>0</fill> </PolyStyle> <ListStyle></ListStyle></Style>
+<Folder> <name>CS</name>
+<Placemark><styleUrl>#ESSMAPCS </styleUrl> <LineString><coordinates> 84.9149647192848,26.6235148437062,0 84.9156372362105,26.6233313077369,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#ESSMAPCS </styleUrl> <LineString><coordinates> 84.9270978643051,26.5511150563748,0 84.9274697730635,26.5516509481998,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#ESSMAPCS </styleUrl> <LineString><coordinates> 84.795462223947,26.718335074536,0 84.7958748622245,26.7191578368178,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#ESSMAPCS </styleUrl> <LineString><coordinates> 84.8829456109643,26.6778117457867,0 84.8836665717708,26.6784401189732,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#ESSMAPCS </styleUrl> <LineString><coordinates> 84.8349118718731,26.9308486872239,0 84.8358660525917,26.9305609906114,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#ESSMAPCS </styleUrl> <LineString><coordinates> 84.8377531871045,27.0088299282312,0 84.8386522427009,27.0084228176897,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#ESSMAPCS </styleUrl> <LineString><coordinates> 84.7787561833507,26.864092888295,0 84.7797419966098,26.8639126123351,0</coordinates></LineString></Placemark>
+</Folder>
+<Folder> <name>CSMARK</name>
+<Placemark><styleUrl>#ESSMAPCSMARK </styleUrl> <LineString><coordinates> 84.7439512503756,26.7817931372285,0 84.7449564875197,26.7817795402373,0</coordinates></LineString></Placemark>
+<Placemark><name>ROB @ Ch. 66.270 KM</name><styleUrl>#ESSMAPCSMARK</styleUrl> <Point><coordinates> 84.8341520404645,26.9857332577733,0</coordinates></Point></Placemark>
+<Placemark><name>ROB @ 53.632 KM</name><styleUrl>#ESSMAPCSMARK</styleUrl> <Point><coordinates> 84.7920599724813,26.8797030479572,0</coordinates></Point></Placemark>
+<Placemark><name>ROB @ 37.085 KM</name><styleUrl>#ESSMAPCSMARK</styleUrl> <Point><coordinates> 84.7419411189171,26.7656648097609,0</coordinates></Point></Placemark>
+<Placemark><name>ROB @ CH 18.172 KM</name><styleUrl>#ESSMAPCSMARK</styleUrl> <Point><coordinates> 84.8702398027567,26.6675423546638,0</coordinates></Point></Placemark>
+<Placemark><name>Ch. 10.00 KM</name><styleUrl>#ESSMAPCSMARK</styleUrl> <Point><coordinates> 84.9153551227058,26.6224651877028,0</coordinates></Point></Placemark>
+<Placemark><name>Ch. 0.650 KM</name><styleUrl>#ESSMAPCSMARK</styleUrl> <Point><coordinates> 84.9283263132451,26.5511807726789,0</coordinates></Point></Placemark>
+<Placemark><name>Ch. 30.00 KM</name><styleUrl>#ESSMAPCSMARK</styleUrl> <Point><coordinates> 84.7967951772407,26.7187954996739,0</coordinates></Point></Placemark>
+<Placemark><name>Ch. 20.00 KM</name><styleUrl>#ESSMAPCSMARK</styleUrl> <Point><coordinates> 84.8843732516489,26.6777987230753,0</coordinates></Point></Placemark>
+<Placemark><name>Ch. 60.00 KM</name><styleUrl>#ESSMAPCSMARK</styleUrl> <Point><coordinates> 84.8355546217763,26.9297028524589,0</coordinates></Point></Placemark>
+<Placemark><name>Ch. 69.241 KM</name><styleUrl>#ESSMAPCSMARK</styleUrl> <Point><coordinates> 84.8382067192318,27.0076134592851,0</coordinates></Point></Placemark>
+<Placemark><name>Ch. 50.00 KM</name><styleUrl>#ESSMAPCSMARK</styleUrl> <Point><coordinates> 84.7795508456447,26.8630266673679,0</coordinates></Point></Placemark>
+<Placemark><name>Ch. 40.00 KM</name><styleUrl>#ESSMAPCSMARK</styleUrl> <Point><coordinates> 84.7449513862245,26.7808771794426,0</coordinates></Point></Placemark>
+</Folder>
+</Document></kml>

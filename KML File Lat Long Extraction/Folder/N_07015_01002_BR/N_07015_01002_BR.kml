@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>NH-57A KML File.kml</name>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7faa55</color>
+			<scale>1.6</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff55aa</color>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.77273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7faa55</color>
+			<scale>1.6</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/S-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_E">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/E.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7faa55</color>
+			<scale>1.6</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/E-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>3.8</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>3.8</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_E">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/E.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7faa55</color>
+			<scale>1.6</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/E-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_E">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_E</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_E</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff55aa</color>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>NH-57A</name>
+		<open>1</open>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					87.23519524457815,26.31803774422546,0 87.23525533929492,26.31827895533116,0 87.2353291122524,26.31846525865869,0 87.23548062833326,26.31877910939985,0 87.23554981879289,26.31898109324405,0 87.23568671494225,26.31928697994193,0 87.235816431564,26.31957871308661,0 87.23596682740703,26.31994071661295,0 87.23611650839999,26.32029366799493,0 87.23625385575319,26.32061220458463,0 87.23639628065561,26.32094662125548,0 87.23654528454117,26.32132103823955,0 87.23670187137388,26.32169244786999,0 87.23684700475427,26.32204043022481,0 87.2370216995284,26.32246864291591,0 87.2371828375847,26.32285340501165,0 87.23735111467778,26.32323975912622,0 87.23748401585476,26.32361703126848,0 87.23770386886098,26.32410024529231,0 87.23790397314153,26.32459694768961,0 87.23813946052073,26.32513450570709,0 87.23840061671547,26.3258177939492,0 87.23861838741327,26.32645842276091,0 87.23877815802383,26.32715273444025,0 87.23884558741146,26.32780719402653,0 87.23884494805641,26.32850258831343,0 87.23879840916979,26.32909430801003,0 87.23869487277368,26.32970016681824,0 87.23861200655459,26.33019007114732,0 87.23853589843591,26.33062828993684,0 87.23846758312899,26.33104201747864,0 87.2383958706663,26.33148589899552,0 87.23830842800464,26.33196968708464,0 87.23822086620845,26.3324502043162,0 87.2381656453444,26.33287833139678,0 87.23810851081043,26.33332765542299,0 87.23804048397913,26.33386615352232,0 87.23796370648762,26.3343012412683,0 87.23788922235022,26.33471912586863,0 87.2377446730648,26.33521877594553,0 87.23769044095835,26.33570301126811,0 87.23750666855175,26.33665472714812,0 87.23734219122119,26.33730458445535,0 87.23714974848258,26.33825249894276,0 87.23723605689167,26.33931285890177,0 87.23732140839437,26.34038460529631,0 87.23738791534615,26.34153574684354,0 87.23709777237842,26.34267892711951,0 87.236699495088,26.3434392602142,0 87.23624323806459,26.34435014068163,0 87.23596015142492,26.34528460920412,0 87.23588673013484,26.34595666918032,0 87.23582348050248,26.34677019676487,0 87.23575026121991,26.34767185200974,0 87.23569279702826,26.34863708290244,0 87.23560968826429,26.34951464882983,0 87.23541746298743,26.3503714676343,0 87.23524627568403,26.35099341495503,0 87.23504259534423,26.35169073045807,0 87.23479699573653,26.35250686138339,0 87.2345963937088,26.35346044817577,0 87.23439903742663,26.35434231168172,0 87.23420110574764,26.35531591748228,0 87.23407451039736,26.35613294684556,0 87.23400693953717,26.35698938082758,0 87.23395072771237,26.35793924468838,0 87.23393242114599,26.35884222799,0 87.23400747519183,26.35977291118315,0 87.23406536885254,26.3604085946146,0 87.23414033610504,26.361322397227,0 87.23421797088508,26.36227610141942,0 87.23426056952097,26.36324370602048,0 87.23433444405391,26.36436336520604,0 87.23442350791724,26.36546438337691,0 87.23450986582247,26.36656644972683,0 87.23464426338097,26.36746926319683,0 87.23476932665808,26.36786409373765,0 87.23497389506181,26.36829051300796,0 87.23546249910837,26.3691390972222,0 87.23563960617477,26.36956563643172,0 87.23576000834899,26.37007057345873,0 87.23578843837271,26.37056138325987,0 87.23578442454725,26.37089145156043,0 87.23566815435382,26.37165213868185,0 87.23550574520452,26.37284433223254,0 87.23559002011432,26.37368034653121,0 87.23599171518001,26.3745033706135,0 87.23640007992964,26.37498875670852,0 87.23708731470747,26.37553947721545,0 87.23798947031339,26.37593477436089,0 87.2388945545101,26.37630635200927,0 87.23998127958737,26.37687696587543,0 87.24096930051216,26.37767069560924,0 87.24167544534185,26.37844716780539,0 87.24242365581662,26.37935860614752,0 87.24315595568849,26.38026683319218,0 87.24369373851778,26.38091304138493,0 87.24447461105311,26.381850324445,0 87.24528075730538,26.38256309951891,0 87.24612547365609,26.38307530935084,0 87.24699947522511,26.38339831314316,0 87.24782415945769,26.38359666048671,0 87.24877764730657,26.38368191091855,0 87.24915644705331,26.38366340253728,0 87.24986416455558,26.38358903144395,0 87.25055665875674,26.38344029187413,0 87.25124403111676,26.38320764943623,0 87.25206962184062,26.38290881501166,0 87.25287388165114,26.38256151675525,0 87.25394827828303,26.3823493424963,0 87.25512852136875,26.38235428860049,0 87.2564029949823,26.38241428342122,0 87.25777988072927,26.38251230780692,0 87.25915359143478,26.38255659885072,0 87.25969155281926,26.38258631804823,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Jogbani, ICP Gate, Ch. 9+260</name>
+			<LookAt>
+				<longitude>87.25968503649916</longitude>
+				<latitude>26.38260562437519</latitude>
+				<altitude>0</altitude>
+				<heading>0.003413431970412463</heading>
+				<tilt>30.00017127340169</tilt>
+				<range>34.19493922890595</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_E</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>87.25968503649915,26.38260562437519,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Forbesganj, Starting Ch. 0+000</name>
+			<LookAt>
+				<longitude>87.23538830296143</longitude>
+				<latitude>26.31817682720096</latitude>
+				<altitude>0</altitude>
+				<heading>-0.007322560541081491</heading>
+				<tilt>30.00035893473629</tilt>
+				<range>80.01119773529038</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>87.23519462366461,26.31803563869785,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PARMAN BRIDGE AT CH. 6+521</name>
+			<LookAt>
+				<longitude>87.24003397480152</longitude>
+				<latitude>26.37302553345422</latitude>
+				<altitude>0</altitude>
+				<heading>-0.004798983272443483</heading>
+				<tilt>29.19912712476457</tilt>
+				<range>1026.159207761983</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>87.23652158277633,26.37513134662663,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SITADHAR BRIDGE AT CH. 2+154</name>
+			<LookAt>
+				<longitude>87.24152795150266</longitude>
+				<latitude>26.33665087587759</latitude>
+				<altitude>0</altitude>
+				<heading>-0.004139150040068359</heading>
+				<tilt>29.19912987647097</tilt>
+				<range>1026.787104701586</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>87.23756591210898,26.33649735669033,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>R.O.B. AT CH. 8+195</name>
+			<LookAt>
+				<longitude>87.25171948950538</longitude>
+				<latitude>26.3843350261435</latitude>
+				<altitude>0</altitude>
+				<heading>0.0005648565720812396</heading>
+				<tilt>29.99386514100596</tilt>
+				<range>923.3388517230566</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>87.2496008045167,26.38363968246921,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

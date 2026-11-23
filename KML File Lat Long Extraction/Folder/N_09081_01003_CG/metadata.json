@@ -1,0 +1,16 @@
+{
+  "upc": "N/09081/01003/CG",
+  "type": "TTP",
+  "project_name": " Katghora-Shivnagar-Ambikapur",
+  "length": "80.9",
+  "ro_id": 22,
+  "ro_name": "RO-Raipur",
+  "piu_id": 333,
+  "piu_name": "Bilaspur",
+  "start_lat_long": "22.312211,82.324738",
+  "end_lat_long": "22.523611,82.482014",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=03_KatghoraAmbikapur_Chainage.kml&upc=N/09081/01003/CG",
+  "verified_centerline_doc": "No",
+  "verified_chainage_doc": "No",
+  "verified_row_doc": "No"
+}

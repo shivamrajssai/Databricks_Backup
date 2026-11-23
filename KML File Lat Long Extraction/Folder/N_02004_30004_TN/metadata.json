@@ -1,0 +1,16 @@
+{
+  "upc": "N/02004/30004/TN",
+  "type": "O&M",
+  "project_name": "Operation & Maintenance of Chennai Tada Section of NH­5 from Km.11/000 to Km.21/400",
+  "length": "10.4",
+  "ro_id": 11,
+  "ro_name": "RO-Chennai",
+  "piu_id": 252,
+  "piu_name": "Chennai",
+  "start_lat_long": "13.141980,80.223638",
+  "end_lat_long": "13.431983,80.169997",
+  "upload_alignment_doc": "https://datalakeg.nhai.gov.in/nhai/MISC/PackageWiseGISAlignmentDocument?documentName=N0200430001TNFromKm11.000toKm21.400.kml&upc=N/02004/30004/TN",
+  "verified_centerline_doc": "Yes",
+  "verified_chainage_doc": "Yes",
+  "verified_row_doc": "Yes"
+}

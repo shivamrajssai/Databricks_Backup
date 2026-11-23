@@ -1,0 +1,32 @@
+# Data processing
+pandas>=2.0
+openpyxl>=3.1
+numpy>=1.24
+ 
+# PDF extraction
+PyMuPDF>=1.23
+ 
+# GIS / Spatial
+geopandas>=0.14
+shapely>=2.0
+ 
+# Google Drive API
+google-auth>=2.0
+google-auth-oauthlib>=1.0
+google-auth-httplib2>=0.2
+google-api-python-client>=2.0
+ 
+# Database
+sqlalchemy>=2.0
+ 
+# API (Phase 4)
+# fastapi>=0.100
+# uvicorn>=0.23
+ 
+# Utilities
+pyyaml>=6.0
+tqdm>=4.65
+python-dotenv>=1.0
+rapidfuzz
+ 
+ 
